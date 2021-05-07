@@ -14,7 +14,7 @@ for get request GET:- http://127.0.0.1:8000/oxygen/
         "address": "Noida",
         "business_name": "xyz",
         "person_name": "aahul",
-        "contact": 9096324594,
+        "contact": 9096324598,
         "verified_status": "New"
     }
     
